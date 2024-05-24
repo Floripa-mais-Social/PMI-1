@@ -7,7 +7,7 @@ Floripa + Social
 
 🎁 Proposta de Valor: 
 
-🧑‍💻👩‍💻 Equipe: Leonardo Giora, Diego André, .
+🧑‍💻👩‍💻 Equipe: Leonardo Giora, Diego André, Leonardo Flores Silveira, Maria Egydio, Leandro Lima.
 
 🛠️ Recursos/Tecnologias Utilizados:
 -------------------
