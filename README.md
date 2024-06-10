@@ -3,11 +3,11 @@ Floripa + Social
 -------------------
 🙁 Problema: 
 
-Atualmente, há uma falta de uma plataforma centralizada que facilite o engajamento de voluntários comprometidos em eventos sociais, conecte organizadores de eventos a voluntários disponíveis e ofereça oportunidades para empresas patrocinarem eventos em troca de benefícios fiscais. Isso cria uma lacuna na sociedade, onde voluntários têm dificuldade em encontrar oportunidades de contribuir, organizadores de eventos lutam para recrutar voluntários e empresas buscam maneiras eficazes de apoiar iniciativas sociais com impacto positivo.
+Atualmente, há uma falta de uma plataforma centralizada que facilite o engajamento de voluntários comprometidos em eventos sociais, conecte organizadores de eventos a voluntários disponíveis e ofereça oportunidades para empresas patrocinarem eventos em troca de benefícios fiscais. Isso cria uma lacuna na sociedade, onde voluntários têm dificuldade em encontrar oportunidades de contribuir, organizadores de eventos lutam para recrutar voluntários e empresas buscam maneiras eficazes de apoiar iniciativas sociais com impacto positivo. 
 
 🙂 Nicho:
 
- Uma plataforma online que resolve o problema da falta de engajamento de voluntários comprometidos em eventos sociais, conectando voluntários a oportunidades de contribuir, facilitando a colaboração entre organizadores de eventos e voluntários, e promovendo parcerias entre empresas e iniciativas sociais.
+Uma plataforma online que resolve o problema da falta de engajamento de voluntários comprometidos em eventos sociais, conectando voluntários a oportunidades de contribuir, facilitando a colaboração entre organizadores de eventos e voluntários, e promovendo parcerias entre empresas e iniciativas sociais.
 
 🎁 Proposta de Valor: 
 
