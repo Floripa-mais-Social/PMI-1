@@ -13,7 +13,7 @@ Uma plataforma online que resolve o problema da falta de engajamento de voluntá
 
 A nossa plataforma oferece uma solução abrangente para o problema identificado, facilitando o engajamento de voluntários ao conectar indivíduos dispostos a contribuir com eventos sociais que correspondam aos seus interesses e disponibilidade. Além disso, proporcionamos uma ferramenta eficiente para os organizadores de eventos recrutarem voluntários qualificados, simplificando o processo de planejamento e execução de eventos sociais. Também incentivamos parcerias entre empresas e iniciativas sociais, permitindo que as empresas apoiem causas socialmente relevantes em troca de benefícios fiscais e reconhecimento positivo. Com uma estratégia de divulgação abrangente, garantimos que eventos e oportunidades de voluntariado alcancem toda a sociedade, promovendo um impacto social positivo e uma comunidade mais unida.
 
-🧑‍💻👩‍💻 Equipe: Leonardo Giora, Diego André, Maria Egydio, Leandro Lima, Jairzinho Gabriel Gonçalves, Magnólia Hiller Nascimento, Aline Gabrielly Teixeira de Lima.
+🧑‍💻👩‍💻 Equipe: Leonardo Giora, Diego André, Maria Egydio, Leandro Lima, Jairzinho Gabriel Gonçalves, Magnólia Hiller Nascimento, Aline Gabrielly Teixeira de Lima, Marcos Oliveira e Cisneros.
 
 🛠️ Recursos/Tecnologias Utilizados:
 -------------------
