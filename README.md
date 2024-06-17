@@ -23,7 +23,7 @@ A nossa plataforma oferece uma solução abrangente para o problema identificado
 
  :page_with_curl: [Business Model Canvas]()
 
-🛬 url landpage:
+🛬 [LandingPage](https://floripa-mais-social.github.io/PMI-1/)
 
 🤝 url Modelo Negócio (imagem):
 
